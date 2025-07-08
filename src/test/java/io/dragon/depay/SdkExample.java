@@ -10,8 +10,8 @@ import java.math.BigInteger;
 import java.util.Arrays;
 
 public class SdkExample {
-    final String apiAddress="0x8126ac362f08ec6a58b43e537f3dbbb474c70595";
-    final String apiKey="sp7Nnsthp1RcDnITfzO6pL1MffNLhcLxf0vx09fMt6";
+    final String apiAddress="${your address}";
+    final String apiKey="${your api key}";
 
     @Test
     public void queryPlatformFee(){
